@@ -1,2 +1,3 @@
 # studio-repo-test1
-Fist Repo test for Studio class
+First Repo test for Studio class
+How are you all doing?
