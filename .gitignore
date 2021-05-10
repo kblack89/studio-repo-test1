@@ -1,0 +1,5 @@
+        const string BaseUrl = "https://raw.githubusercontent.com/github/gitignore/master/";
+
+        const string DefaultTemplate = "VisualStudio.gitignore";
+        [Option(CommandOptionType.SingleValue, ShortName = "t", LongName = "template",
+            Description = "Specifies the .gitignore template to download. (Default is VisualStudio)")]
